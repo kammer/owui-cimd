@@ -1,0 +1,8 @@
+   {
+     "client_id": "https://<you>.github.io/owui-cimd/client.json",
+     "client_name": "Open WebUI (kammer)",
+     "redirect_uris": ["<your Open WebUI callback URL>"],
+     "grant_types": ["authorization_code", "refresh_token"],
+     "response_types": ["code"],
+     "token_endpoint_auth_method": "none"
+   }
